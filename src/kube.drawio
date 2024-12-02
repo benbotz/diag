@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPad; CPU OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1" version="25.0.1">
   <diagram name="Page-1" id="M3Gm2iMeXGtW0PlfCsVa">
-    <mxGraphModel>
+    <mxGraphModel dx="1962" dy="1485" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZSdzYoO-NGmE_tgEbbS2-1" value="Cluster" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-42" y="-199" width="481" height="904" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSdzYoO-NGmE_tgEbbS2-2" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-384" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSdzYoO-NGmE_tgEbbS2-3" value="Control plane" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="-166" width="437" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSdzYoO-NGmE_tgEbbS2-4" value="Kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2" y="-128" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSdzYoO-NGmE_tgEbbS2-5" value="Kube-apiserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="12" y="-118" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSdzYoO-NGmE_tgEbbS2-6" value="Node" style="rounded=0;whiteSpace=wrap;html=1;align=right;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="223" width="192" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSdzYoO-NGmE_tgEbbS2-8" value="Kubelet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="337" width="176" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSdzYoO-NGmE_tgEbbS2-9" value="Koroxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="451" width="176" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
